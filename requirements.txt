@@ -1,0 +1,4 @@
+Flask
+SQLAlchemy
+MySQL-connector-python
+Other necessary packages...
